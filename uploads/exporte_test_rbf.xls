@@ -1,0 +1,9 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+<body>
+<table border="1"><td  bordercolor="#000000" bgcolor="#AB273B"><div align="center" class="Estilo2">x1</div></td><td  bordercolor="#000000" bgcolor="#AB273B"><div align="center" class="Estilo2">x2</div></td><td  bordercolor="#000000" bgcolor="#AB273B"><div align="center" class="Estilo2">x3</div></td><td  bordercolor="#000000" bgcolor="#AB273B"><div align="center" class="Estilo2">Salida</div></td><td  bordercolor="#000000" bgcolor="#AB273B"><div align="center" class="Estilo2">Respuesta</div></td><tr><td bgcolor="#FFF">1.50</td><td bgcolor="#FFF">2.50</td><td bgcolor="#FFF">5.50</td><td bgcolor="#FFF">3.50</td><td bgcolor="#FFF">3.500000000003</td></tr><tr><td bgcolor="#FFF">3.50</td><td bgcolor="#FFF">4.00</td><td bgcolor="#FFF">5.60</td><td bgcolor="#FFF">5.30</td><td bgcolor="#FFF">5.2999999999566</td></tr><tr><td bgcolor="#FFF">4.20</td><td bgcolor="#FFF">6.00</td><td bgcolor="#FFF">7.00</td><td bgcolor="#FFF">3.20</td><td bgcolor="#FFF">3.1999999999766</td></tr><tr><td bgcolor="#FFF">2.10</td><td bgcolor="#FFF">3.30</td><td bgcolor="#FFF">1.10</td><td bgcolor="#FFF">4.00</td><td bgcolor="#FFF">4.0000000001957</td></tr></table></body>
